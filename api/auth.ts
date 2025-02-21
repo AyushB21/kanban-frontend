@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://kanban-backend-9b4u.onrender.com/api";
+const API_BASE_URL = "Endpoint backend";
 
 export async function signUp(name: string, email: string, password: string) {
   try {
